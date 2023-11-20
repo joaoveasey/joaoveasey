@@ -19,9 +19,10 @@
 
 
 ### Studying in this moment:
-C# <br>
-.NET 6 <br>
-SQL Server 
+
+<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+.NET 
+
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98b0b6&height=120&section=footer"/>
