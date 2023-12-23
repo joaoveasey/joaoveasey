@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=757975&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98b0b6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Veasey;I'm+18+years+old;I'm+studying+Multiplataform+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoveasey&bg_color=0d1117&color=98b0b6&line=98b0b6&point=98b0b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98b0b6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Veasey;i'm+18+years+old;i'm+studying+Multiplataform+Software+Development;be+welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -17,9 +15,6 @@
  </div> 
 
 
-### Studying in this moment:
-
-<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
  
 
