@@ -12,6 +12,5 @@
 </div>
 <br>
 <br>
-<p align="left">
-<a href="https://linkedin.com/in/joaoveasey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaoveasey" height="30" width="40" /></a>
-</p>
+<h2 align="left"><a href="https://linkedin.com/in/joaoveasey" />LinkedIn</a></h2>
+<h2 align="left"><a href="https://joaoveasey.vercel.app" />Portfólio</a></h2>
