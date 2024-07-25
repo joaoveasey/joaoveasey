@@ -13,4 +13,4 @@
 <br>
 <br>
 <h2 align="left"><a href="https://linkedin.com/in/joaoveasey" />LinkedIn</a></h2>
-<h2 align="left"><a href="https://joaoveasey.vercel.app" />Portfólio</a></h2>
+<h2 align="left"><a href="https://joaoveasey.vercel.app" />Portfolio</a></h2>
